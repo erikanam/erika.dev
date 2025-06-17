@@ -1,31 +1,56 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Erika Precia | Portfolio
 
+Welcome to my professional web portfolio — a curated showcase of my projects, skills, and passion for technology, design, and automation.
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+🌐 **Live Website:** [https://erikanam.github.io/erika.dev](https://erikanam.github.io/erika.dev)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = Not included)
+## ✨ About
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+This portfolio is built using simple yet elegant **HTML** and **CSS**, reflecting my growth as a developer and creative problem-solver. It highlights:
 
-AJ
-aj@lkn.io | @ajlkn
+- Frontend development skills
+- Automation tools I’ve worked with
+- Real-world project samples
+- My personal brand and career goals
 
+---
 
-Credits:
+## 💼 Projects Featured
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- A CRM system automated with Make.com and ClickUp
+- An AI-powered Instagram-to-Facebook audience builder
+- A smart chatbot that extracts instant answers from documents
+- An AI assistant that generates meeting-based proposals
 
-	Icons:
-		Font Awesome (fontawesome.io)
+> More coming soon as I continue my transition to becoming an AI Automation Specialist and full-stack developer.
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- (More tech stacks are represented in the live project content)
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate, hire, or just say hi:
+
+- 🌐 Website: [erikanam.github.io/erika.dev](https://erikanam.github.io/erika.dev)
+- 📧 Email: erikaprecia96@gmail.com
+- 📍 Based in the Philippines (Open to remote opportunities)
+
+---
+
+## 🚀 Future Plans
+
+This portfolio is just the start — I’m currently learning:
+
+- French 🇫🇷 — preparing for the DELF exam
+
+Thanks for stopping by!
